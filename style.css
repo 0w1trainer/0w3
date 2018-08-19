@@ -1,0 +1,16 @@
+﻿.subt{
+ color:black;
+}
+h1{
+ color:black;
+ text-align:center;
+ font-size:45px;
+}
+ul{
+ list-style:none;
+ padding-left:0px;
+}
+a{
+ color:gray;
+ text-decoration:none;
+}
